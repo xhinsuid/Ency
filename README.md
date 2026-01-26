@@ -10,7 +10,7 @@ Installation
 
 Preferably, you can download PASENC by cloning the [Git](https://github.com/Xhinsuid/PASENC.git) repository:
 
-    https://github.com/Xhinsu404/PASENC.git
+    https://github.com/Xhinsuid/PASENC.git
 
 PASENC works out of the box with [Python](https://www.python.org/download/) 
 
