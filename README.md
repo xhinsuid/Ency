@@ -1,36 +1,27 @@
-# PASENC
-PASENC is a python encryptor that makes python scripts immutable but still executable, I made this script so that programmers who upload their scripts on GitHub wont be recoded by other people. 
-
+# Ency
+Ency is a python encryptor that makes python scripts immutable but still executable, I made this script with base64 in python
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xhinsuid/PASENC/blob/main/Screenshot_PASENC.jpg)
+![Screenshot](https://github.com/Xhinsuid/PASENC/blob/main/Screenshot_Ency.jpg)
 Installation
 ----
 
-Preferably, you can download PASENC by cloning the [Git](https://github.com/Xhinsuid/PASENC.git) repository:
+Preferably, you can download Ency by cloning the [Git](https://github.com/Xhinsuid/Ency.git) repository:
 
-    https://github.com/Xhinsuid/PASENC.git
+    https://github.com/Xhinsuid/Ency.git
 
-PASENC works out of the box with [Python](https://www.python.org/download/) 
-
-instaling library / module?
-
-    pip -r install requirements.txt
-
-if error you can paste di command di terminal
-
-    pip install colorama
+Ency works out of the box with [Python](https://www.python.org/download/) 
 
 Usage
 ----
 
 To get a list of basic options and switches use:
 
-    python pasenc.py
+    python ency.py
 
 Example:
 
-    nothing im lazy
+    im lazy
 
-Havefun guys
+Havefun guys!!!
