@@ -3,7 +3,7 @@ Ency is a python encryptor that makes python scripts immutable but still executa
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xhinsuid/PASENC/blob/main/Screenshot_Ency.jpg)
+![Screenshot](https://github.com/Xhinsuid/PASENC/blob/main/Screenshot_ency.png)
 Installation
 ----
 
