@@ -4,6 +4,7 @@ Screenshots
 ----
 
 ![Screenshot](https://github.com/xhinsuid/Ency/blob/main/Screenshot-ency.png)
+
 Installation
 ----
 
