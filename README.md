@@ -3,14 +3,14 @@ Ency is a python encryptor that makes python scripts immutable but still executa
 Screenshots
 ----
 
-![Screenshot](https://github.com/xhinsuid/Ency/blob/main/Screenshot-ency.png)
+![Screenshot](https://github.com/KevinAbil/Ency/blob/main/Screenshot-ency.png)
 
 Installation
 ----
 
-Preferably, you can download Ency by cloning the [Git](https://github.com/xhinsuid/Ency.git) repository:
+Preferably, you can download Ency by cloning the [Git](https://github.com/KevinAbil/Ency.git) repository:
 
-    https://github.com/xhinsuid/Ency.git
+    https://github.com/KevinAbil/Ency.git
 
 Ency works out of the box with [Python](https://www.python.org/download/) 
 
